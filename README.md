@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @SafiyaYakubu
-- 👀 I’m interested in codes for microbiome analyses of 16s rRNA and  dungi ITS using R and R packages such as phyloseq and Vegan etc.
-- I will appreciate hints on codes on all the steps from normalisation, calculation and pltting of graphs for alpha diversity, beta diversity (PCA, PCoa)
+- 👀 I’m interested in codes for microbiome analyses of 16s rRNA and  Fungi ITS using R and R packages such as phyloseq and Vegan etc.
+- I will appreciate hints on codes on all the steps from normalisation, calculation and plotting of graphs for alpha diversity, beta diversity (PCA, PCoa)
 - Taxonomic binning, Serial group comparisons,correlations etc.
 - 🌱 I’m currently learning how to code using R
 - 💞️ I’m looking to collaborate on code sharing for microbiome analyses 
-- 📫 How to reach me yakubusafiya@gmail.com
+- 📫 How to reach me yakubusafiya03@gmail.com
 - 😄 Pronouns: Her, She
 - ⚡ Fun fact: Just Started my PhD
 
